@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alonewolf963
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ML Project 
+- 👋 Hi, I’m @Preet_Patil
+- 👀 I’m interested in Software Development (Java)
+- 🌱 I’m currently learning Cloud Computing
+- 💞️ I’m looking to collaborate on Android Develpment
 - 📫 How to reach me preet3patil@gmail.com
 
 <!---
