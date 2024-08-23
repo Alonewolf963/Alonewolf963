@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Preet_Patil
-- 👀 I’m interested in Software Development (Java/MySQL)
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on Android Develpment
+- 👀 I’m interested in Software Development (Java/Python)
+- 🌱 I’m currently learning Flutter Development
+- 💞️ I’m looking to collaborate on App Develpment
 - 📫 How to reach me preet3patil@gmail.com
 
 <!---
